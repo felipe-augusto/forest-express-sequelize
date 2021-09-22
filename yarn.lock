@@ -10170,10 +10170,10 @@ seq-queue@^0.0.5:
   resolved "https://registry.yarnpkg.com/seq-queue/-/seq-queue-0.0.5.tgz#d56812e1c017a6e4e7c3e3a37a1da6d78dd3c93e"
   integrity sha1-1WgS4cAXpuTnw+Ojeh2m143TyT4=
 
-sequelize-fixtures@1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/sequelize-fixtures/-/sequelize-fixtures-1.1.1.tgz#287cdbdc73c27ab1ba5e3b41849dd71be800bdd1"
-  integrity sha512-/uLE5osIpMgGtPRB1G7qV1xn6TxXZahVkqeP8Q6b4uSDwhLJDLiSxopAwPso7oYVgS7nMQIvDBzM7eZyWeInPw==
+sequelize-fixtures@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/sequelize-fixtures/-/sequelize-fixtures-1.2.0.tgz#378fe93cbfd3b032ae7c4d4ebd80f933dcfb8b7c"
+  integrity sha512-kZtCBv1XaZw/zRXXfwLWI6TVUNdpfD4Pyeaws6ZFvzRag+VUZXpPrHwa01OffhSZ2KmWS8RafxlUWVENP1QoVw==
   dependencies:
     bluebird "^2.4.2"
     glob "~7.0.5"
